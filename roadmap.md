@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IS507 Heart Failure Project: Remaining Tasks
 
 ## Team tasks
@@ -30,3 +31,6 @@
 ## Important
 
 The project is based on a small dataset and is **not ready for clinical use**. Make that limitation clear in the final recommendation and presentation.
+=======
+test
+>>>>>>> 5643347ed722ef750c1ba72d99764ada78da43aa
